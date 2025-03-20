@@ -1,4 +1,3 @@
-# "Space Eater"
 def isEven(input):
     # Guard Clause: check if digits
     if not input.isdigit():
